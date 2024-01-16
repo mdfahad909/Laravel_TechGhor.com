@@ -1,0 +1,19 @@
+.portfolio-details .portfolio-details-carousel {
+       position: relative;
+   z-index: 1;
+  }
+  
+ .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
+    margin-top: 5px;
+       text-align: left;
+     }
+     
+     .portfolio-details .portfolio-details-carousel .owl-dot {
+       display: inline-block;
+       margin: 0 10px 0 0;
+
+     }
+     
+     .portfolio-details .portfolio-details-carousel .owl-dot.active {
+       background-color: #3498db !important;
+ }
